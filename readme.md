@@ -1,15 +1,26 @@
-#  HTML5 Reset (http://html5reset.org)
-
-## Summary:
+# HTML5 Reset
 
 HTML5 Reset is a simple set of best practices to get web projects off on the right foot.
 
-1. A style sheet designed to strip initial files from browsers, meaning you start off with a blank slate.
-2. Easy to customize -- remove whatever you don't need, keep what you do.
-3. Analytics and jQuery snippets in place
+## Command-line installation:
+
+```
+bower install HTML5-Reset
+```
+
+## Some of the features:
+
+1. A style sheet designed to strip initial styles from browsers, starting your development off with a blank slate.
+2. Easy to customize — remove whatever you don't need, keep what you do.
+3. Google Analytics and jQuery calls
 4. Meta tags ready for population
-5. Empty mobile and print style sheets, including blocks for device orientation
+5. Empty print and small-screen media queries
 6. Modernizr.js [http://www.modernizr.com/](http://www.modernizr.com/) enables HTML5 compatibility with IE (and a dozen other great features)
-7. IE-specific classes for simple CSS-targeting
-8. iPhone/iPad/iTouch icon snippets
-9. Lots of other keen stuff...
+7. [Prefix-free.js](http://leaverou.github.io/prefixfree/) allowing us to only use un-prefixed styles in our CSS
+8. IE-specific classes for simple CSS targeting (if that's your thing)
+9. iPhone/iPad/iTouch icon snippets, plus social/app meta tags for Twitter, Facebook
+10. Lots of other keen details
+
+## Get the WordPress theme:
+
+https://github.com/murtaugh/HTML5-Reset-WordPress-Theme
